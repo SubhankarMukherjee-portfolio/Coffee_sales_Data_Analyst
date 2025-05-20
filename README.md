@@ -2,7 +2,7 @@
 This project involves exploratory data analysis (EDA) on a coffee sales dataset using SQL. The dataset contains transactional details such as date, time, coffee type, payment method (cash/card), amount, and customer identifiers (card numbers). The analysis includes data cleaning (handling missing values, date formatting), summarization, trend identification, customer behavior analysis, and revenue insights. The project was executed in a structured SQL environment using MySQL.
 
 # Dataset used
-Dataset =
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Coffee_sales_Data_Analyst/blob/main/index.csv"
 
 # Objectives of the project
 1) To understand customer purchasing patterns and preferences in a coffee shop.
@@ -11,7 +11,7 @@ Dataset =
 4) To generate business insights that can help improve sales strategy and operations.
 
 # MySQL File 
-MySQL File =
+MySQL File = "https://github.com/SubhankarMukherjee-portfolio/Coffee_sales_Data_Analyst/blob/main/coffee%20sales.sql"
 
 # Questions solved
 1) How many records are clean (no missing values)?
