@@ -1,2 +1,2 @@
-# Coffee_sales_-Data_Analyst-
-This project involves exploratory data analysis (EDA) on a coffee sales dataset using SQL. The dataset contains transactional details such as date, time, coffee type, payment method (cash/card), amount, and customer identifiers (card numbers).
+# Coffee Sales Data Analysis (Using MySQL)
+This project involves exploratory data analysis (EDA) on a coffee sales dataset using SQL. The dataset contains transactional details such as date, time, coffee type, payment method (cash/card), amount, and customer identifiers (card numbers). The analysis includes data cleaning (handling missing values, date formatting), summarization, trend identification, customer behavior analysis, and revenue insights. The project was executed in a structured SQL environment using MySQL.
